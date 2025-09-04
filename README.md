@@ -1,2 +1,2 @@
+Đây là README được chỉnh sửa từ nhánh main.
 
-Giới thiệu: Tôi là Nguyen Phu Quy, MSSV 220711.
