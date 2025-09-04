@@ -1,2 +1,1 @@
-Sở thích: iot 
-Kỹ năng: code kém
+Họ và tên: nguyễn Phú Quý echo Sở thích: esp echo Kỹ năng: code git add info.txt
